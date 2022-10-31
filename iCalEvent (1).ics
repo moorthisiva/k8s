@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://Oracle//HCM Learn//
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:300001927488973
+DTSTAMP:20220906T030846Z
+DTSTART:20220920T080000Z
+DTEND:20220920T120000Z
+SUMMARY:Fundamentals of Python - Training
+DESCRIPTION:Fundamentals of Python - Training\n------\nNo activity descript
+ ion was provided.\n------\nWeb Conference: https://teams.microsoft.com[dum
+ my link]\n-----\nInstructor: Sakshi Jamgaonkar  20-67034605\n
+SEQUENCE:1662433731
+LOCATION:Web Conference
+ORGANIZER:olc@example.com
+END:VEVENT
+END:VCALENDAR

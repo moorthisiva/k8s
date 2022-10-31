@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID://Oracle//HCM Learn//
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:300001925057403
+DTSTAMP:20220829T131515Z
+DTSTART:20220908T073000Z
+DTEND:20220908T103000Z
+SUMMARY:Fundamentals of Docker - Training
+DESCRIPTION:Fundamentals of Docker - Training\n------\nNo activity descript
+ ion was provided.\n------\nWeb Conference: https://teams.microsoft.com[dum
+ my link]\n-----\nInstructor: Varsha Bakshi  20-67034476\n
+SEQUENCE:1661778918
+LOCATION:Web Conference
+ORGANIZER:olc@example.com
+END:VEVENT
+END:VCALENDAR
